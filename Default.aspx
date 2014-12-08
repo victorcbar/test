@@ -47,7 +47,7 @@
             var objJson = 
             [
                 {nombre: 'victor',apPaterno: 'cruz',apMaterno: 'barbis',fechaNacimiento: '25-02-1989'},
-                { nombre: 'Landy', apPaterno: 'Sosa', apMaterno: 'Ponce', fechaNacimiento: '08-12-1989' }
+                { nombre: 'Lesly', apPaterno: 'Rojas', apMaterno: 'Santinelli', fechaNacimiento: '08-12-1989' }
             ];
 
             $("#gvDetails").append("<tr class='headerTable'><th>Username</th><th>Firstname</th>  <th>Lastname</th> <th>EmailID</th></tr>");
